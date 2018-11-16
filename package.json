@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "syncOSS",
+        "scope": null,
+        "escapedName": "syncOSS",
+        "name": "syncOSS",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\phpStudy\\WWW\\test\\gulp-font-spider-test"
+    ]
+  ],
+  "_cnpm_publish_time": 1474940936472,
+  "_from": "syncOSS@latest",
+  "_hasShrinkwrap": false,
+  "_id": "syncoss@2.0.0",
+  "_inCache": true,
+  "_location": "/syncoss",
+  "_nodeVersion": "6.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/syncoss-2.0.0.tgz_1474940936232_0.5810429374687374"
+  },
+  "_npmUser": {
+    "name": "elantion",
+    "email": "elantion@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "syncOSS",
+    "scope": null,
+    "escapedName": "syncOSS",
+    "name": "syncOSS",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/syncoss/download/syncoss-2.0.0.tgz",
+  "_shasum": "60e8bc9322e24be22c6b0d2ccfa52e36a827087c",
+  "_shrinkwrap": null,
+  "_spec": "syncOSS",
+  "_where": "E:\\phpStudy\\WWW\\test\\gulp-font-spider-test",
+  "author": {
+    "name": "JamesYin"
+  },
+  "bin": {
+    "syncOSS": "bin/syncOSS.js"
+  },
+  "bugs": {
+    "url": "https://github.com/elantion/SyncOSS/issues"
+  },
+  "dependencies": {
+    "aliyun-sdk": "^1.6.3",
+    "chokidar": "^1.3.0",
+    "mime": "^1.3.4"
+  },
+  "description": "Synchronizing local files and OSS.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "60e8bc9322e24be22c6b0d2ccfa52e36a827087c",
+    "size": 100440,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/syncoss/download/syncoss-2.0.0.tgz"
+  },
+  "gitHead": "6adc0fe2057153982b7736aa6cceb026e722ae96",
+  "homepage": "https://github.com/elantion/SyncOSS#readme",
+  "keywords": [
+    "aliyun",
+    "oss",
+    "sync",
+    "files"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "elantion",
+      "email": "elantion@gmail.com"
+    }
+  ],
+  "name": "syncoss",
+  "optionalDependencies": {},
+  "publish_time": 1474940936472,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elantion/SyncOSS.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
