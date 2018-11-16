@@ -21,7 +21,7 @@
 1.安装
 ```
 git clone https://github.com/yinge-huyinghuan/syncOSS2.git
-npm install -g OR npm install
+npm install -g 或者 npm install
 ```
 
 2.配置
