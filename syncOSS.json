@@ -1,6 +1,6 @@
 {
-	"AccessKeyId": "XXX",
-	"AccessKeySecret": "XXX",
+	"AccessKeyId": "XXXX",
+	"AccessKeySecret": "XXXX",
 	"oss": {
 		"securityToken": "",
 		"endpoint": "http://oss-cn-hangzhou.aliyuncs.com"
